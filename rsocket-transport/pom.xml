@@ -36,10 +36,6 @@
       <groupId>io.rsocket</groupId>
       <artifactId>rsocket-transport-netty</artifactId>
     </dependency>
-    <dependency>
-      <groupId>io.projectreactor.ipc</groupId>
-      <artifactId>reactor-netty</artifactId>
-    </dependency>
 
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
